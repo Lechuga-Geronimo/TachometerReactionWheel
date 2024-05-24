@@ -1,5 +1,5 @@
-![1713910035385](https://github.com/Lechuga-Geronimo/Optical-Tacho-Reaction-Wheel/assets/142461885/b161329a-22fc-4138-98d2-06fe48062ac9)# Optical-Tacho-Reaction-Wheel
- A low-cost, digital RPM meter was build in order to determine the magnitude and direction of rotation of the reaction wheels.
+# Optical-Tacho-Reaction-Wheel
+A low-cost, digital RPM meter was build in order to determine the magnitude and direction of rotation of the reaction wheels.
 
 ## Year: 2016. 
 
@@ -7,11 +7,11 @@
 
 A low-cost, digital RPM meter was build in order to determine the magnitude and direction of rotation of the reaction wheels.
 
-## Real-time results. 
+## Working principle.
 
-Angular speed of the reaction wheel after optical tachometer integration and validation.
+Explanation of how the optical tachometer works.
 
-![1713910266309](https://github.com/Lechuga-Geronimo/Optical-Tacho-Reaction-Wheel/assets/142461885/dede833c-ee15-47f1-8c6a-0aa7a5764134)
+![1713909951903](https://github.com/Lechuga-Geronimo/Optical-Tacho-Reaction-Wheel/assets/142461885/4963f336-aae9-48cd-af17-05c5cca9bdb4)
 
 ## Optical sensor.
 
@@ -25,3 +25,8 @@ This circuit is in charge of providing the right measurement of every cycle of t
 
 ![1713910035385](https://github.com/Lechuga-Geronimo/Optical-Tacho-Reaction-Wheel/assets/142461885/1eeb3247-db6c-42e4-acbf-38593d75a280)
 
+## Real-time results. 
+
+Angular speed of the reaction wheel after optical tachometer integration and validation.
+
+![1713910266309](https://github.com/Lechuga-Geronimo/Optical-Tacho-Reaction-Wheel/assets/142461885/dede833c-ee15-47f1-8c6a-0aa7a5764134)
