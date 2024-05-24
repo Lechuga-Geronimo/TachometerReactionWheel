@@ -1,4 +1,4 @@
-# Optical-Tacho-Reaction-Wheel
+# Optical Tachometer Design for Reaction Wheel Angular Speed Control.
 A low-cost, digital RPM meter was build in order to determine the magnitude and direction of rotation of the reaction wheels.
 
 ## Year: 2016. 
